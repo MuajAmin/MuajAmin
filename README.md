@@ -1,46 +1,101 @@
-# Hi there, I'm Md. Muaj Amin! 👋
+<div align="center">
 
-I am an aspiring **AI/ML Researcher, Data Scientist, and Machine Learning Engineer**. I am passionate about evolutionary computation, intelligent agent design, and building robust data pipelines. My focus bridges the gap between theoretical AI research and practical MLOps engineering.
+# Hi there, I'm Md. Muaj Amin 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=AI%2FML+Researcher+%26+Data+Scientist;Evolutionary+Computation+Enthusiast;ML+Engineer+%7C+MLOps+%26+Linux+Infra;Building+Bio-Inspired+Intelligent+Systems" alt="Typing SVG" />
 
-### 🧠 Core Focus Areas
-- **AI/ML Research:** Exploring evolutionary algorithms, bio-inspired AI, and optimization techniques like Cartesian Genetic Programming (CGP).
-- **Data Science & ML Engineering:** Data preprocessing, statistical modeling, and training intelligent systems to solve complex problems.
-- **MLOps & Infrastructure:** Deploying and containerizing data workloads on Linux VPS environments using Docker, Bash scripting, and automated workflows.
+<br/>
 
----
+*Bridging theoretical AI research and practical MLOps engineering — one evolved agent at a time.*
 
-### 🛠️ Tech Stack & Toolbelt
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL, JavaScript, Node.js, Bash |
-| **AI / Machine Learning** | NumPy, Pandas, Scikit-Learn, Evolutionary Computation (CGP) |
-| **DevOps & MLOps Infrastructure** | Linux (Ubuntu/Debian), Docker, Git, SSH, Webhooks, Termux |
+</div>
 
 ---
 
-### 🔬 Featured AI & Software Projects
+## 🧠 About Me
 
-* **[gpFlappyBird](https://github.com/MuajAmin/gpFlappyBird)** – *AI / Evolutionary Computation*
-  A Python implementation exploring Cartesian Genetic Programming (CGP) to evolve intelligent agents capable of playing Flappy Bird. Shines a light on bio-inspired AI optimization techniques.
-  
-* **[UpdatedChessMint](https://github.com/MuajAmin/UpdatedChessMint)** – *Logic & Web Systems*
-  A JavaScript-driven chess application and utility platform combining clean frontend logic with state management.
+I'm an aspiring **AI/ML Researcher**, **Data Scientist**, and **ML Engineer** with a passion for bio-inspired computation and intelligent agent design. My work sits at the intersection of evolutionary algorithms, statistical modeling, and production-grade infrastructure — turning research concepts into deployable, real-world systems.
 
----
-
-### 📊 GitHub Insights
-
-![MuajAmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuajAmin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuajAmin&layout=compact&theme=radical)
+- 🔬 Researching **Cartesian Genetic Programming (CGP)** and evolutionary optimization techniques
+- 🤖 Building intelligent agents that *learn to survive* in complex environments — without backprop
+- 🐳 Containerizing and deploying ML workloads on Linux VPS with Docker & automated workflows
+- 📊 Crafting data pipelines that turn raw signals into actionable insight
 
 ---
 
-### 🤝 Let's Connect
-- **Email:** [your.email@example.com] - **LinkedIn:** [linkedin.com/in/yourusername] ```
+## 🛠️ Tech Stack
 
-### 💡 Quick Tips for your Bio:
-Since you are updating your layout, remember to update the green **Bio** sidebar section on your main [GitHub Profile](https://github.com/MuajAmin) to match:
-> *Aspiring AI/ML Researcher & ML Engineer | Specializing in Evolutionary Computation, Data Science, & Linux Infrastructure.*
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**AI / Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Evolutionary Computation](https://img.shields.io/badge/Evolutionary_Computation_(CGP)-8B5CF6?style=for-the-badge&logoColor=white)
+
+**MLOps & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6D28D9?style=for-the-badge&logoColor=white)
+
+---
+
+## 🔬 Featured Projects
+
+### 🐦 [gpFlappyBird](https://github.com/MuajAmin/gpFlappyBird) — *AI · Evolutionary Computation*
+> Evolving intelligent game-playing agents using **Cartesian Genetic Programming (CGP)** — no neural networks, no gradient descent. Just pure, bio-inspired evolutionary pressure. A living proof-of-concept that intelligence can *emerge* without backprop.
+
+`Python` `CGP` `Bio-Inspired AI` `Evolutionary Algorithms` `Genetic Programming`
+
+<br/>
+
+### ♟️ [UpdatedChessMint](https://github.com/MuajAmin/UpdatedChessMint) — *Logic · Web Systems*
+> A full-featured JavaScript chess platform combining clean frontend architecture with robust game state management and move validation logic.
+
+`JavaScript` `Frontend` `State Management` `Game Logic`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuajAmin&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuajAmin&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MuajAmin&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuajAmin)
+
+<br/><br/>
+
+*"Evolution doesn't build from a blueprint — it discovers solutions. So do I."*
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MuajAmin&color=6E40C9&style=flat-square&label=Profile+Views)
+
+</div>
